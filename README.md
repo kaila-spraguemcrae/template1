@@ -4,11 +4,11 @@
 
 #### By _**{List of contributors}**_
 
-## Description
+## 🚩 Description
 
 {Detailed description, its purpose and usage. What does it does and other information.}
 
-## Setup/Installation Requirements
+## 🔧 Setup/Installation Requirements
 
 ### View Online
 
@@ -26,13 +26,13 @@ Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FINISH-U
 
 Run `npm install` in terminal to gain access to webpack
 
-## Known Bugs
+## 🐛 Known Bugs
 
-## Support and contact details
+## 📫 Support and contact details
 
 If you run into any problems or have any questions please contact me via [email](mailto:kaila.sprague@icloud.com).
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 This project uses the following technologies:
 
@@ -43,7 +43,7 @@ This project uses the following technologies:
 - Bootstrap
 - GitHub
 
-### License
+## 📘 License
 
 MIT License
 
