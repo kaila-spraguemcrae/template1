@@ -14,6 +14,12 @@
 
 _To view my live website, {Name of Page}, visit_[https://kaila-spraguemcrae.github.io/FINISH-URL](https://kaila-spraguemcrae.github.io/FINISH-URL)
 
+### Necessary Specifications
+
+- To run this project locally you will need to have node. You can check if you have node by running `node -v` in the command line. If you do not have node please find more information and download [here](https://nodejs.org/en/download/)
+
+- You will also need to have an ExchangeRate API Key. To get this you will need to request a Key [here](TODO).
+
 ### Open Locally
 
 Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FINISH-URL](https://guthub.com/kaila.spraguemcrae/FINISH-URL), and click on the green 'Code' button to clone the repository, Open with GitHub Desktop OR Download the ZIP file
@@ -24,7 +30,12 @@ Go to my GitHub repository here, [https://guthub.com/kaila.spraguemcrae/FINISH-U
 3. To view the code, open the copied directory with Visual Studio Code or your preferred text editor by inputing the command `code .` in your terminal.
 4. To view the website, open index.html in Chrome or your preferred browser.
 
-Run `npm install` in terminal to gain access to webpack
+### Starting a functioning environment:
+
+1. Run `npm install` in terminal to gain access to webpack.
+2. Create a `.env` file in the root directory.
+3. Save your API key in the `.env` by inputting `API_KEY= {Your API Key}`.
+4. Input `npm run start` to view the live server for the application.
 
 ## 🐛 Known Bugs
 
@@ -36,12 +47,11 @@ If you run into any problems or have any questions please contact me via [email]
 
 This project uses the following technologies:
 
-- HTML
 - JavaScript
 - JQuery
-- CSS
 - Bootstrap
-- GitHub
+- Webpack
+- npm
 
 ## 📘 License
 
